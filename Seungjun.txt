@@ -1,2 +1,5 @@
 Student ID: 21600447
 Student name: Seungjun, Yu
+
+Hello! My name is Seungjun!
+This is the second try to commit.
